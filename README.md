@@ -5,8 +5,8 @@
 
 
 
- 1주차 Google Main Page Clone [ ]
-[ ] 2주차 
-[ ] 3주차
-[ ] 4주차
-[ ] 5주차
+-[ ] 1주차 Google Main Page Clone
+-[ ] 2주차 
+-[ ] 3주차
+-[ ] 4주차
+-[ ] 5주차
