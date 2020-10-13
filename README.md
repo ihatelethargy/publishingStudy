@@ -5,7 +5,7 @@
 
 
 
-- [ ] 1주차 Google Main Page Clone
+- [] 1주차 Google Main Page Clone
 - [ ] 2주차 
 - [ ] 3주차
 - [ ] 4주차
